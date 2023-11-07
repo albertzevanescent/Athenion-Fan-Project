@@ -7,4 +7,4 @@ This has no affiliation with the original owners. All rights belong to "ZERO-Bit
 It is currently only available on Android.
 
 Join the <a href="https://discord.gg/sBXgeuEq5Q">Discord</a>.
-Go to <a href="https://github.com/albertzevanescent/Athenion-Fan-Project">GitHub Page</a>.
+Go to <a href="https://albertzevanescent.github.io/Athenion-Fan-Project/">Website</a>.
