@@ -1,0 +1,17 @@
+New:
+	Online multiplayer
+	View graveyards
+	Mulligan/targetting timers
+	Turn timer
+	Player nickname
+	More deck presets
+
+Bug Fixes:
+	Cards not being moved from board to hand
+	Death collector freezing the game
+	Home deck now properly updates
+	Small audio issue
+
+Other:
+	Disable unused card filters
+	Card library arts load asynchronously
