@@ -1,7 +1,7 @@
 New:
 	Online multiplayer
 	View graveyards
-	Mulligan/targetting timers
+	Mulligan/targeting timers
 	Turn timer
 	Player nickname
 	More deck presets
